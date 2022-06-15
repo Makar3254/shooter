@@ -1,3 +1,4 @@
+#by Makar
 class Doctor():
     def __init__(self, name, pat, sick):
         self.name = name
